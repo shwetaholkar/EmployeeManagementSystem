@@ -16,6 +16,7 @@
 </head>
 <body>
     <div class="container">
+        <fieldset>
         <form id="form1" runat="server">
         
         <div>
@@ -46,7 +47,7 @@
             </table>
         </div>
     </form>
-
+            </fieldset>
     </div>
 </body>
 </html>
